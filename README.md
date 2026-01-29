@@ -1,4 +1,4 @@
-# Facilitating Software Interaction in the Oil Industry via LLM-Powered Virtual Assistant
+# An LLM-Powered Virtual Assistant for Software Navigation and Explainability in the Oil Industry
 This is a repository which contains the supplementary material for the article.
 Aside from this README.md, in this repository you'll find the [prompt templates](Prompts.md) used to construct the prompts sent to the generative models.
 
