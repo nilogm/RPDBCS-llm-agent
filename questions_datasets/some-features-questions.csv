@@ -1,0 +1,36 @@
+Perguntas
+Será que sem [FEATURE] o tipo de falha mudaria?
+"Se a gente não olhar [FEATURE], que outro problema poderia estar acontecendo?"
+"Não tenho certeza se essa é a falha certa, será que ignorando [FEATURE] da análise surge outra possibilidade?"
+"Se eu não considerar [FEATURE], o sistema poderia indicar outro tipo de falha?"
+"Se deixarmos de lado [FEATURE], existe outra falha que faria sentido?"
+Qual outro problema poderia aparecer se ignorarmos [FEATURE]?
+Será que [FEATURE] está influenciando muito? Que falha daria sem ela?
+"Se não levarmos em conta [FEATURE], o que mais o sistema poderia sugerir?"
+"Olhando esse sinal, se não considerarmos [FEATURE], qual outra falha poderia ser relevante?"
+"Os padrões nesse sinal me chamaram atenção, será que sem [FEATURE] surge outra hipótese de falha?"
+Não tenho certeza sobre essa indicação de falha; será que existe outra explicação sem [FEATURE]?
+"Se a leitura de [FEATURE] for ignorada, qual outra falha poderia se encaixar nesse padrão?"
+Esse sinal ainda aponta para a mesma falha se a gente não considerar [FEATURE]?
+"Se a gente desconsiderar [FEATURE], tem alguma outra falha que vale a pena checar?"
+"Se eu não usar [FEATURE], que falha alternativa o sistema mostraria?"
+Será que existe alguma outra falha que explique esse sinal sem [FEATURE]?
+O que o sistema sugeriria se deixássemos [FEATURE] de fora?
+"Se eu excluir [FEATURE], quais outras possibilidades de falha ainda fazem sentido?"
+Que outra falha poderia aparecer sem [FEATURE]?
+"Se ignorarmos [FEATURE], que tipo de falha alternativa poderia surgir?"
+"Se deixarmos [FEATURE] de fora, qual problema seria indicado?"
+Será que essa falha indicada se mantém para a mesma falha sem considerar [FEATURE]?
+"Se a gente deixar de lado [FEATURE], existe algum outro problema que o sistema apontaria?"
+"Se retirarmos [FEATURE], qual falha alternativa faria sentido?"
+"Observando esse sinal, que outro tipo de falha poderia aparecer sem [FEATURE]?"
+"Se não contarmos [FEATURE], qual seria a próxima suspeita de falha?"
+Será que há outra falha que explique esse sinal sem [FEATURE]?
+"Se a gente não usar [FEATURE], quais falhas poderiam ser consideradas?"
+"Sem [FEATURE] presentes nesse sinal, que outra falha poderia ser indicada?"
+Será que ignorar [FEATURE] mudaria totalmente a interpretação da falha?
+"Se a gente não levar [FEATURE] em conta, existe outra falha compatível com esse sinal?"
+"Observando esse sinal sem [FEATURE], qual outro tipo de falha poderia ser apontado pelo sistema?"
+"Estou em dúvida sobre a falha exibida, se omitirmos [FEATURE], o que pode surgir?"
+"Supondo que não levemos [FEATURE] em conta, que falha poderia aparecer?"
+"Se [FEATURE] não for confiável, qual outra falha o sistema poderia levantar?"

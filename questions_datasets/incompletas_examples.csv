@@ -1,0 +1,22 @@
+Perguntas,Follow-up
+Seria possivel achar [QTD_SINAIS] sinais que seja parecido com este?, Quero apenas os [QTD_SINAIS] mais parecidos
+Olhe para os sinais da classe [CLASSE] e traga exemplos que sejam parecidos com esse, Agora queros os que sejam da classe [CLASSE]
+Me mostre sinais que tenham [CLASSE], Agora com [CLASSE] porém quero apenas [QTD_SINAIS] 
+Teria como você encontrar [QTD_SINAIS] sinais que sejam da classe [CLASSE] e que seguem esse padrão?, Traga apena os [QTD_SINAIS] mais parecidos
+Busque [QTD_SINAIS] sinais com esse comportamento,Mostre apenas os que tenha [CLASSE]
+Você consegue puxar alguns sinais nesse estilo?,E sinais com [CLASSE]? Teria também nesse estilo?
+Me mostre alguns sinais com o mesmo padrão desse sinal,Teria exemplos em que tenha [CLASSE]? Me mostre [QTD_SINAIS] se tiver
+Você consegue encontrar [QTD_SINAIS] sinais semelhantes a este?,Quero só os [QTD_SINAIS] mais próximos
+Há sinais parecidos com esse comportamento?,Filtre apenas os da classe [CLASSE]
+Pode buscar exemplos desse tipo de sinal?,Agora limite para [QTD_SINAIS] resultados
+Existem sinais com esse mesmo padrão?,Traga apenas os que pertencem à classe [CLASSE]
+Consegue listar sinais similares a esse?,Mostre apenas [QTD_SINAIS]
+Me dê exemplos de sinais parecidos com esse,Quero só [QTD_SINAIS] e da classe [CLASSE]
+Você pode identificar sinais com esse perfil?,Depois mostre apenas os [QTD_SINAIS] mais relevantes]
+Me mostre sinais com comportamento equivalente a este,Limite para [QTD_SINAIS] resultados
+Busque sinais com padrão semelhante,Quero apenas [QTD_SINAIS] deles
+Liste sinais comparáveis a este,Agora traga apenas [QTD_SINAIS]
+Pode encontrar sinais com esse padrão?,Filtre por [CLASSE] e limite a [QTD_SINAIS]
+Quais exemplos existem desse tipo?,Quero apenas [QTD_SINAIS] mais parecidos
+Você pode sugerir sinais similares?,Agora apenas os que têm [CLASSE]
+Mostre sinais com padrão próximo a este,Limite em [QTD_SINAIS] e filtre por [CLASSE]
