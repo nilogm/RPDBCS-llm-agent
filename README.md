@@ -3,6 +3,13 @@ Supplementary material for the article.
 
 In `Prompts.md` you may find the prompts used in the experiments and in `server.py`, the headers and descriptions for each MCP Tool.
 
+## Agent Configurations
+The agent used in this system is a _CodeAgent_ instance with:
+ - the _float_ type set to _auto_
+ - max number of steps set to 5
+ - greedy decoding was enabled in order to increase the reproducibility of the results.
+
+## Demonstration Videos
 Below are some videos regarding each tool call.
 
 ### Search for Similar Signals
